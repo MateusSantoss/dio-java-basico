@@ -1,4 +1,4 @@
-package edu.mateus.segundasemana;
+package edu.mateus.convensaoclasse;
 public class MinhaClasse {
     public static void main (String [] args) {
         //
